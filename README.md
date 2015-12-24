@@ -11,4 +11,4 @@ Like all GO software it is compatible with Windows, MacOS and Linux, but a binar
 ### Instructions
 To run, simply double click the .exe file. It will scan your data files, then announce it is ready. Then go to http://localhost:8888/ to use the interface.
 If you do not have Zusi installed in C:\\Program Files (x86)\\Zusi, you need to run it from the command line as 
-> zusibrowser -zusi *<path to zusi>*
+> zusibrowser -zusi pathtozusi
